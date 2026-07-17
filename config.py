@@ -1,5 +1,5 @@
-CLIENT_ID = "YOUR_BOL_CLIENT_ID"
-CLIENT_SECRET = "YOUR_BOL_CLIENT_SECRET"
+CLIENT_ID = "fc9677d0-72bc-4304-9839-c57df3852954"
+CLIENT_SECRET = "2JRe(au9ILSg@EqA5)7K)g+iMdtCvNT9kWzCts0h@VCX7nyELN)9HLxHKVN19dOK"
 
 LOGIN_URL = "https://login.bol.com/token"
 BASE_API_URL = "https://api.bol.com/retailer"
